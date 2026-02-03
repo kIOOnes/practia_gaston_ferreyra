@@ -25,7 +25,7 @@ Convencion de idioma: Ingles.
 ## Documentacion - Estructura
 ├── pages/ ->Carpeta de hasta 3 niveles maximo. Agrupada por funcionalidad.  
 ├── tests/  
-├── core/  #Aquí la codificación de los métodos que usaran los pages objects. 
+├── core/  #Aquí la codificación de los métodos que usaran los pages objects.   
 ├── reports/-> Aqui iran los reportes de Allure que se vayan generando  
 ├── venv/ -> entorno virtual.   
 └── README.md  
